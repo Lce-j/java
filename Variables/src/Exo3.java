@@ -1,5 +1,3 @@
-import java.sql.Date;
-import java.util.ArrayList;
 
 public class Exo3 {
     public static void main(String[] args) throws Exception {
@@ -15,7 +13,6 @@ public class Exo3 {
         String sms ="Bonjour, le monde";
         Integer[] tableau = {1, 2, 3, 4};
         Double number = 3.14;
-        Object = new Object();
     }
     
 }
